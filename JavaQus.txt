@@ -1,0 +1,96 @@
+Quiz-1,A.How to declare a variable in java?
+Quiz-1,1.Variable name data type
+Quiz-1,2.Variable name 
+Quiz-1,3.Data type variable name;
+Quiz-1,4.best
+Quiz-1answer,A.3
+Quiz-1,B.Where are you from?
+Quiz-1,1.mirpur
+Quiz-1,2.rampura
+Quiz-1,3.bonoshree
+Quiz-1,4.malibag
+Quiz-1answer,B.3
+Quiz-2,A.Where do you study?
+Quiz-2,1.AIUB
+Quiz-2,2.NSU
+Quiz-2,3.DIU
+Quiz-2,4.AUST
+Quiz-2answer,A.1
+Quiz-2,B.Which department are you in?
+Quiz-2,1.CSE
+Quiz-2,2.EEE
+Quiz-2,3.BBA
+Quiz-2,4.COA
+Quiz-2answer,B.1
+Quiz-2,C.How many credits do you have?
+Quiz-2,1.148
+Quiz-2,2.145
+Quiz-2,3.160
+Quiz-2,4.128
+Quiz-2answer,C.1
+Quiz-2,D.Do you like coding?
+Quiz-2,1.Yes
+Quiz-2,2.No
+Quiz-2,3.Confused
+Quiz-2,4.It's hard
+Quiz-2answer,D.1
+Quiz-3,A.How many courses do you have?
+Quiz-3,1.32
+Quiz-3,2.33
+Quiz-3,3.45
+Quiz-3,4.60
+Quiz-3answer,A.1
+Quiz-3,B.how many credits do you have?
+Quiz-3,1.148
+Quiz-3,2.150
+Quiz-3,3.160
+Quiz-3,4.50
+Quiz-3answer,B.1
+Quiz-5,A.How old are you?
+Quiz-5,1.21
+Quiz-5,2.22
+Quiz-5,3.23
+Quiz-5,4.24
+Quiz-5answer,A.1
+Quiz-6,A.what is your name?
+Quiz-6,1.isfaq
+Quiz-6,2.niso
+Quiz-6,3.muta
+Quiz-6,4.nishi
+Quiz-6answer,A.1
+Quiz-6,B.what do you do?
+Quiz-6,1.khai
+Quiz-6,2.pori
+Quiz-6,3.ghumai
+Quiz-6,4.kheli
+Quiz-6answer,B.1
+Quiz-7,A.What is your name?
+Quiz-7,1.niso
+Quiz-7,2.kanta
+Quiz-7,3.muta
+Quiz-7,4.nishi
+Quiz-7answer,A.1
+Quiz-7,B.what is your department?
+Quiz-7,1.cse
+Quiz-7,2.eee
+Quiz-7,3.bba
+Quiz-7,4.coa
+Quiz-7answer,B.1
+Quiz-8,A.Which of the following is a valid declaration of a char?
+Quiz-8,1.char ch = '\utea';
+Quiz-8,2.char ca = 'tea';
+Quiz-8,3.char ca = 'tea'
+Quiz-8,4.char cr = \u0223;
+Quiz-8answer,A.2
+Quiz-8,B.Which package contains the Random class?
+Quiz-8,1.java.util package
+Quiz-8,2.java.lang package
+Quiz-8,3.java.awt package
+Quiz-8,4.java.io package
+Quiz-8answer,B.1
+Quiz-9,A._____ is used to find and fix bugs in the Java programs.
+Quiz-9,1.JVM
+Quiz-9,2.JRE
+Quiz-9,3.JDK
+Quiz-9,4.JDB
+Quiz-9answer,A.4
